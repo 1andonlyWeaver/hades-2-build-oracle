@@ -1,0 +1,5 @@
+{
+  "name": "Hades II Build Oracle",
+  "description": "Select your Nocturnal Arm and Aspect to receive optimized build recommendations, including Boons and Hammer upgrades, powered by Gemini AI.",
+  "requestFramePermissions": []
+}
